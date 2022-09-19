@@ -5,6 +5,12 @@ version 0.1.3 : 15 September 2022
 Convert reMarkable tablet file 'bundles' to layered PDFs, with optional
 per-layer colours for selected pens.
 
+## Install
+
+```
+go install github.com/rorycl/rm2pdf@master
+```
+
 ## Update
 
 15 September 2022
